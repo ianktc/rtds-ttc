@@ -1,0 +1,1 @@
+CREATE INDEX idx_vehicle_positions_timestamp ON vehicle_positions(timestamp);
